@@ -4,8 +4,8 @@ development:
   database: mess_dev
   host: localhost
   pool: 5
-  username: postgres
-  password: password
+  username: root
+  password: root
 
 
 production:
@@ -14,5 +14,5 @@ production:
   database: mess_prod
   host: localhost
   pool: 5
-  username: postgres
-  password: password
+  username: root
+  password: root
